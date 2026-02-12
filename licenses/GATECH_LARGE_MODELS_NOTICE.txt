@@ -1,0 +1,15 @@
+Source URL:
+https://www.cc.gatech.edu/projects/large_models/
+
+Observed statement on source page:
+
+The purpose of this site is to provide large models to researchers in
+computer graphics and related fields.
+
+License status:
+- No explicit OSI-style license text was found on the archive landing page.
+- Use as research archive content and verify redistribution/commercial rights
+  separately before packaging for public release.
+
+Files used in classes are from this archive and keep the original geometry names
+with `gatech_` prefix in `classes/giga/ply`.
