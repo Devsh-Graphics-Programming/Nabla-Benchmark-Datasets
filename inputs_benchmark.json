@@ -1,0 +1,77 @@
+{
+  "row_view": false,
+  "cases": [
+    {
+      "name": "obj_mini",
+      "path": "assets/classes/mini/obj/00004955_d6f9da33017048c683ac514f_trimesh_019.obj"
+    },
+    {
+      "name": "obj_small",
+      "path": "assets/classes/small/obj/00000050_trimesh_000.obj"
+    },
+    {
+      "name": "obj_medium",
+      "path": "assets/classes/medium/obj/00002012_df521a96e8fe4dc1a24e5b3e_trimesh_000.obj"
+    },
+    {
+      "name": "obj_giga",
+      "path": "assets/classes/giga/obj/00007550_39b8753e288548acb61c7b2a_trimesh_002.obj"
+    },
+    {
+      "name": "obj_branch_full",
+      "path": "assets/branches/obj/yellowflower.obj"
+    },
+    {
+      "name": "obj_branch_minimal",
+      "path": "assets/classes/mini/obj/00004955_d6f9da33017048c683ac514f_trimesh_019.obj"
+    },
+    {
+      "name": "stl_mini",
+      "path": "assets/classes/mini/stl/00003281_f2ec2bcaa0184b049e1e8af9_trimesh_000.stl"
+    },
+    {
+      "name": "stl_small",
+      "path": "assets/classes/small/stl/00005999_c43c4fc6c6584eb8b872f15a_trimesh_001.stl"
+    },
+    {
+      "name": "stl_medium",
+      "path": "assets/classes/medium/stl/00005640_b357e8687df34423a376a23f_trimesh_011.stl"
+    },
+    {
+      "name": "stl_giga",
+      "path": "assets/classes/giga/stl/00005760_e0f82256c529440487cff0a1_trimesh_001.stl"
+    },
+    {
+      "name": "stl_branch_ascii",
+      "path": "assets/branches/stl/Spider_ascii.stl"
+    },
+    {
+      "name": "stl_branch_binary",
+      "path": "assets/branches/stl/Spider_binary.stl"
+    },
+    {
+      "name": "ply_mini",
+      "path": "assets/branches/ply/cube_binary.ply"
+    },
+    {
+      "name": "ply_small",
+      "path": "assets/classes/small/ply/gatech_dragon.ply"
+    },
+    {
+      "name": "ply_medium",
+      "path": "assets/classes/medium/ply/xyzrgb_statuette.ply"
+    },
+    {
+      "name": "ply_giga",
+      "path": "assets/classes/giga/ply/lucy.ply"
+    },
+    {
+      "name": "ply_branch_ascii",
+      "path": "assets/branches/ply/cube_ascii.ply"
+    },
+    {
+      "name": "ply_branch_binary",
+      "path": "assets/branches/ply/cube_binary.ply"
+    }
+  ]
+}
